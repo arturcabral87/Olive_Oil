@@ -1,2 +1,2 @@
 # olive_oil
-Olive Oli project
+This was a group project for the Ironhack bootcamp.
